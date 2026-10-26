@@ -1,0 +1,3 @@
+# Display orientation for Onyx Boox C69 (Portrait 758x1024 on 1024x758 panel)
+ro.sf.hwrotation=270
+ro.minui.default_rotation=ROTATION_LEFT
